@@ -82,7 +82,7 @@ No.,Name,BundleID,Filename
 81,Kodi,org.xbmc.kodi-ios,org.xbmc.kodi-ios-large
 82,Kodi,com.tweakbox.kodi,com.tweakbox.kodi-large
 83,Tweakbox,,
-84,Soundcloud,com.soundcloud.TouchApp,com.soundcloud.TouchApp-large
+84,SoundCloud,com.soundcloud.TouchApp,com.soundcloud.TouchApp-large
 85,Yugioh,com.logickllc.yugipedia,com.logickllc.yugipedia-large
 86,Carrot Rewards,com.scr.CarrotRewards,com.scr.CarrotRewards-large
 87,App Cake,com.iphonecake.appcake2,com.iphonecake.appcake2-large
@@ -90,7 +90,7 @@ No.,Name,BundleID,Filename
 89,iCleaner Pro,org.altervista.exilecom.icleaner,org.altervista.exilecom.icleaner-large
 90,Terminal,ws.hbang.newterm2,ws.hbang.newterm2-large
 91,Terminal,ws.hbang.Terminal,ws.hbang.Terminal-large
-92,Door Dash,doordash.DoorDashConsumer,doordash.DoorDashConsumer-large
+92,DoorDash,doordash.DoorDashConsumer,doordash.DoorDashConsumer-large
 93,Evernote,com.evernote.iPhone.Evernote,com.evernote.iPhone.Evernote-large
 94,Yelp,com.yelp.yelpiphone,com.yelp.yelpiphone-large
 95,MovieBox,com.sull.videofun,com.sull.videofun-large

@@ -1,0 +1,662 @@
+Messages,com.apple.MobileSMS
+Messenger,com.facebook.Messenger
+Notes,com.apple.mobilenotes
+Reminders,com.apple.reminders
+Camera,com.apple.camera
+Instagram,com.burbn.instagram
+Whatsapp,net.whatsapp.WhatsApp
+Files,com.apple.DocumentsApp
+Find my Friends,com.apple.mobileme.fmf1
+Home,com.apple.Home
+iBooks,com.apple.iBooks
+iCloud Drive,com.apple.iclouddriveapp
+Safari,com.apple.mobilesafari
+Phone,com.apple.mobilephone
+Clock,com.apple.mobiletimer
+Weather,com.apple.weather
+Settings,com.apple.Preferences
+Mail,com.apple.mobilemail
+iTunes Store,com.apple.MobileStore
+News,com.apple.news
+Tips,com.apple.tips
+Photobooth,com.apple.Photo-Booth
+TV,com.apple.tv
+Videos,com.apple.videos
+Compass,com.apple.compass
+Music,com.apple.Music
+Stocks,com.apple.stocks
+Calendar,com.apple.mobilecal
+FaceTime,com.apple.facetime
+Calculator,com.apple.calculator
+Watch,com.apple.Bridge
+Skype,com.skype.skype
+Wechat,com.tencent.xin
+Uber,com.ubercab.UberClient
+Coinbase,com.vilcsak.bitcoin2
+Bitmoji,com.bitstrips.imoji
+Snapchat,com.toyopagroup.picaboo
+Spotify,com.spotify.client
+Anemone,com.anemonetheming.anemone
+Sileo,org.coolstar.SileoStore
+Cydia,com.saurik.Cydia
+Twitter,com.atebits.Tweetie2
+Netflix,com.netflix.Netflix
+TikTok,com.ss.iphone.ugc.Ame
+Pandora,com.pandora
+Amazon,com.amazon.Amazon
+Amazon,com.amazon.AmazonUK
+Amazon,com.amazon.AmazonJP
+Tumblr,com.tumblr.tumblr
+Reddit,com.reddit.Reddit
+Reddit (Alien Blue),com.reddit.alienblue
+Filza,com.tigisoftware.Filza
+Google Maps,com.google.Maps
+Maps,com.apple.Maps
+Podcasts,com.apple.podcasts
+Chrome,com.google.chrome.ios
+Photos,com.apple.mobileslideshow
+Pokemon Go,com.nianticlabs.pokemongo
+Dropbox,com.getdropbox.Dropbox
+Pinterest,pinterest
+Google Translate,com.google.Translate
+Line,jp.naver.line
+Slack,com.tinyspeck.chatlyio
+App Store,com.apple.AppStore
+Find my iPhone,com.apple.mobileme.fmip1
+Health,com.apple.Health
+Voice Memos,com.apple.VoiceMemos
+Contacts,com.apple.MobileAddressBook
+Electra,org.coolstar.electra
+Electra1131,org.coolstar.electra1131
+Electra1131MP,org.coolstar.electra1131-mp
+YouTube,com.google.ios.youtube
+9GAG,com.9gag.ios.mobile
+iTunes U,com.apple.itunesu
+Shazam,com.shazam.Shazam
+Venmo,net.kortina.labs.Venmo
+Workflow,is.workflow.my.app
+Passbook,com.apple.Passbook
+Uber Eats,com.ubercab.UberEats
+Clear,com.realmacsoftware.clear
+Facebook,com.facebook.Facebook
+Kodi,org.xbmc.kodi-ios
+Kodi,com.tweakbox.kodi
+Tweakbox,
+SoundCloud,com.soundcloud.TouchApp
+Yugioh,com.logickllc.yugipedia
+Carrot Rewards,com.scr.CarrotRewards
+App Cake,com.iphonecake.appcake2
+iCleaner,com.exile90.icleanerpro
+iCleaner,org.altervista.exilecom.icleaner
+Terminal,ws.hbang.newterm2
+Terminal,ws.hbang.Terminal
+DoorDash,doordash.DoorDashConsumer
+Evernote,com.evernote.iPhone.Evernote
+Yelp,com.yelp.yelpiphone
+MovieBox,com.sull.videofun
+Starbucks,com.starbucks.mystarbucks
+Starbucks,hk.com.starbucks.starbuckshk
+Starbucks,com.starbuckschina.mystarbucksmoments
+Starbucks,com.starbucks.ku
+Drop,com.drop.molly
+Ext3nder,com.cydia.Ext3nder
+Feedback,com.apple.appleseed.FeedbackAssistant
+Twitch,tv.twitch
+myMail,com.my.mail
+Paypal,com.yourcompany.PPClient
+1Password,com.agilebits.onepassword-ios
+Viber,com.viber
+Calandar 5,com.readdle.Calendars5
+Goodreads,com.goodreads.Goodreads
+Overcast,fm.overcast.overcast
+Discord,com.hammerandchisel.discord
+Dribbble,com.dribbble.dribbble
+Halide,com.chromanoir.Zeit
+VSCO,co.visualsupply.cam
+Agenda,com.momenta.agenda.ios
+Apollo,com.christianselig.Apollo
+Narwhal,com.rickharrison.narwhal
+Bundle,com.td.bundleidsxi
+Bundle,com.wavelink.bundleidsxi
+Edison Email,com.easilydo.mail
+VLC,org.videolan.vlc-ios
+Jira,com.atlassian.jira.app
+Stride,com.atlassian.stride
+Calcbot,com.tapbots.Calcbot
+Twitterific,com.iconfactory.Blackbird
+Steam,com.valvesoftware.Steam
+Gmail,com.google.Gmail
+My Mail,com.my.mail
+Manga Storm,com.wayudaorerk.mangastormall
+Player IL,player.com
+Tilepic,com.sornsitsrichurat.TilePic
+iMAL,com.iatgof.imal
+MyAniList,com.coreyroberts.anilist
+Google Drive,com.google.Drive
+Google Earth,com.google.b612
+Google Docs,com.google.Docs
+Google Photos,com.google.photos
+Microsoft Word,com.microsoft.Office.Word
+Microsoft Excel,com.microsoft.Office.Excel
+Microsoft Outlook,com.microsoft.Office.Outlook
+Microsoft OneDrive,com.microsoft.skydrive
+Fantastical,com.flexibits.fantastical2.iphone
+Sysco,com.syscocorp.omxmvp
+Firefox,org.mozilla.ios.Firefox
+Medium,com.medium.reader
+KBC Mobile,be.kbc.kbcbankingiphone
+Telegram,ph.telegra.Telegraph
+Telegram X,org.telegram.TelegramHD
+Afterlight,us.afterlight.Afterlight
+Pocket,com.ideashower.ReadItLaterPro
+XBOX,com.microsoft.smartglass
+IMDB,com.imdb.imdb
+AMC Theaters,com.vmbc.amc
+Baskin Robbins,com.baskinrobbins.app
+Carrot Weather,com.grailr.CARROTweather
+Emoji Blitz,com.disney.emojimatch
+Flo,org.iggymedia.periodtracker
+Flo (game),com.roguegames.amzrun
+T-Mobile Tuesdays,com.tmobile.tuesdays
+T-Mobile,com.tmobile.TMOAccess
+T-Mobile,nl.tmobile.mytmobile
+Speedtest app,com.ookla.speedtest
+Speedtest Speed Smart,com.veeapps.speedtestxhd
+Speedtest Master,co.allconnected.speedtest
+Bear,net.shinyfrog.brea-iOS
+CocoaTop,ru.domo.CocoaTop
+Things 3,com.culturedcode.ThingsiPhone
+IFTTT,com.ifttt.ifttt
+Activity App,com.apple.Fitness
+Kik,com.kik.chat
+Waze,com.waze.iphone
+Waze Carpool,com.waze.rider
+Lyft,com.zimride.instant
+TD Canada,com.td.tdiphoneapp
+TD Bank,com.tdbank.iphoneapp
+Google App,com.google.GoogleMobile
+Crunchyroll,com.crunchyroll.iphone
+Playstation App,com.playstation.eu.playstationadhoc
+Webtoon,com.naver.linewebtoon
+Playstation Messages,com.playstation.eu.mobilemessages
+Manga Rock,com.notabasement.mr2
+Firefox Focus,org.mozilla.ios.Focus
+Amazon Prime Video,com.amazon.aiv.AIVApp
+Hulu,com.hulu.plus
+Ebay,com.ebay.iphone
+Ebay,com.ebaykleinanzeigen.ebc
+Plex,com.plexapp.plex
+Vodaphone,com.emeint.engezly
+Vodaphone,com.vodafone.mCare
+Vodaphone,com.vodafone.my190
+Vodaphone,qa.vodafone.mcare
+Vodaphone,com.vodafonegr.myvodafone
+Vodaphone,com.vodafoneal.vfalmcare
+Vodaphone,nz.co.vodafone.MyVodafoneApp
+Vodaphone,com.vf.selfservis
+Stadtsparkasse,de.starfinanz.Finanzstatus
+N26,de.no26.Number26
+Spark,com.readdle.smartemail
+Forza,com.footballaddicts.livescoreaddicts
+Scanner Pro,com.btgs.scannerhdlite
+Scanner Pro,com.readdle.Scanner
+Scanner App,com.zuletteran.scannerfree
+YouTube Creator Studio,com.google.ios.ytcreator
+Apple Support,com.apple.supportapp
+Apple Store,com.apple.store.Jolly
+Canvas Student,com.instructure.icanvas
+imgur,imgurmobile
+Powerschool Learning,com.powerschool.learning
+Powerschool Mobile,com.powerschool.portal
+Powerschool University,com.pearson.pss.psuapp
+Powerschool Teacher,com.pearson.pss.teacherapp
+Fortnite,com.chairentertainment.Fortnite
+Virtual wallet ,com.PNC.VirtualWallet
+Geekbench,com.primatelabs.geekbench4
+Ifunny,ru.flysoft.ifunny
+Square Point of Sale,com.squareup.square
+Inbox by Google,com.google.inbox
+tomb of the mask,com.happymagenta.fromcore
+Google Play Movies,com.google.Movies
+Quizlet,com.quizlet.quizlet
+Impeached,com.lbastudios.Impeached
+Battle.net,com.blizzard.social
+Blizzard Authenticator,com.blizzard.Authenticator
+BBM,com.blackberry.bbm1
+iTunes Remote,com.apple.Remote
+Cash App,com.squareup.cash
+SNKRS,com.nike.onenikecommerce
+Tweetbot,com.tapbots.Tweetbot4
+Wyze,com.hualai.WyzeCam
+BMO,com.fis.071025661SUB
+BMO,com.bmo.mbanking
+Clue,com.helloclue.clue
+MyFitnessPal,com.myfitnesspal.mfp
+Second Cup,com.hypernymbiz.SecondCup
+Huji,com.jbinary.hujicam
+Turo,com.relayrides.ios.RelayRides
+tinder,com.cardify.tinder
+aloha web browser,com.alohabrowser.alohabrowser
+Wish,com.contextlogic.Wish
+Groupon,com.groupon.grouponapp
+Progressive,com.progressive.ProgressiveApp
+Ali express,com.alibaba.iAliexpress
+AnimojiStudio,fun.Animoji
+Draft Kings,com.draftkings.dknativermg
+Fantasy,com.espn.fantasyFootball
+Fumatic,net.fumatic.fumatic
+My Mixtapez,com.mymixtapez.ios
+Papers.co,co.papers.Papers
+Tunemoji,uk.emoticast.TuneMoji
+Potential,com.subsplashmarketing.Potential-Church
+Betternet,com.betternet
+UFC,com.ufc.UFCTV
+Google Assistant,com.google.OPA
+Wunderlist,com.6wunderkinder.wunderlistmobile
+Alpaca,com.atmosphere.alpaca
+Simple (Banking),com.simple.Simple
+Chase Bank,com.chase
+Yahoo Weather,com.yahoo.weather
+Airbnb,com.airbnb.app
+Lightroom,com.adobe.lrmobilephone
+Photoshop express,com.adobe.PSMobile
+LinkedIn,com.linkedin.LinkedIn
+YRTViva Pay,co.bytemark.York
+pubg mobile,com.tencent.ig
+Clash Royale,com.supercell.scroll
+Mobile Chess,R6WLZBVJLW.ChessFree
+Mobile Chess,com.byterun.chess
+Mobile Chess,com.chess.iphone
+Solitaire,com.mobilityware.SolitaireFree
+Solitaire,com.brainiumstudios.solitairefree
+Solitaire,com.kathleenOswald.solitaire
+Roku,com.roku.ios.roku
+TextFree,com.pinger.textfreeWithVoice
+Yahoo Mail,com.yahoo.Aerogram
+mterminal,com.officialscheduler.mterminal
+deezer,com.deezer.Deezer
+Family Calendar,com.btgs.famcal
+Fan Dual,com.fanduel.fd
+Yahoo fantasy Footbal,com.yahoo.ffootball2009
+Fantasy Labs,com.fantasylabs.FantasyLabs
+Amazon Fire Remote,com.amazon.firetv.remote
+Fishdom,com.playrix.fishdom-freeplay
+Funimation,com.Funimation.FunimationNow
+GEICO Mobile,com.geico.GloveBox
+Mr Cooper Mobile,com.mrcooper.ios.MrCooper
+NBA,com.nbadigital.gametimelt
+Order Chaos 2,com.gameloft.OrderChaos2
+CBS Radio,com.cbsradio.cbsradioplayer
+Rehosts,cn.tinyapps.Rehosts
+Smashy Brick,com.bulldozergames.smashybrick
+Sonos,com.sonos.SonosController
+Tutu,com.tutuapp.tutuapphwenterprise
+Zip tool free,com.youqm.zitoolfree
+iFile,eu.heinelt.ifile
+Leafly,com.leafly.app
+StockX,com.Campless.Campless
+Grailed,com.grailed.production
+Slader,com.slader.SladerReader
+GOAT,com.airgoat.goat.ios
+Last Pass,com.lastpass.ilastpass
+Fitbit,com.fitbit.FitbitMobile
+ANZ,com.anz.ANZGrow
+MHW Companion,com.SoftwareNotion.MHWorldCompanion
+Apple Remote,com.apple.TVRemote
+Tidal,com.aspiro.TIDAL
+Uber Driver,com.ubercab.UberPartner
+Bank of America,com.bankofamerica.BofA
+myAT&T,com.att.osd.myWireless
+Clash of Clans,com.supercell.magic
+Camera+ Legacy,com.taptaptap.CameraPlus
+Google Keep,com.google.Keep
+InstaSize Photo Editor & Grid,com.InstaSize
+Zoho Mail,com.zoho.zmail
+Followers Pro + for Instagram,io.socialhue.app
+Nest App,com.nestlabs.jasper.release
+Ring Doorbell,com.ring
+Ppsspp,org.ppsspp.ppsspp
+Appellancy,com.efrederickson.Appellancy-app
+Nds4ios ,org.infinidev.nds4ios
+GBA4iOS ,com.rileytestut.enterprise.GBA4iOS
+EQE,com.r333d.eqe.app
+Candy crush ,com.midasplayer.apps.candycrushsaga
+Google sheets,com.google.Sheets
+Blackboard (student),com.blackboard.student
+My radar ,com.fboweb.MyRadar
+Shrugster ,com.teosoares.shrugster
+HotspotVPN ,com.anchorfree.hss
+Tile,com.thetileapp.tile
+Qr Reader,com.TapMediaLtd.QRReader
+Xfinity Home Security,com.comcast.XfinityHomeSecurity
+RBC Mobile,com.rbc.mobilebanking
+RBC Wallet,com.rbc.wallet
+CIBC,com.CIBC.mobilebanking
+Facebook Page,com.facebook.PageAdminApp
+True Caller,com.truesoftware.TrueCallerOther
+FaceTune,com.lightricks.Facetune
+FaceTune2,com.lightricks.Facetune2
+American Express,com.americanexpress.amexservice
+Soundhound Free,com.melodis.soundhound.free
+Soundhound Infinite,com.melodis.midomi
+Player IL,playeril.com
+Arena of Valor,com.ngame.allstar.eu
+Bills for iPhone,com.ibearsoft
+Bleacher Report,com.bleacherreport.TeamStream
+Crash Reporter,crash-reporter
+Direct TV,com.directv.DTViPhone
+ESPN,com.espn.ScoreCenter
+Golf Clash,com.playdemic.golf
+Group Me,com.groupme.iphone-app
+Google Hangouts,com.google.hangouts
+NFL,com.nfl.gamecenter
+Tunein Radio,com.tunein.TuneInRadio
+WWE,com.wwe.universal
+Zedge Wallpapers,net.zedge.wallpapers
+HotspotVPN ,com.hotspotvpn.hotspotvpn
+iCab Mobile,de.icab.iCabMobile
+Mobile Wifi,com.huawei.MobileControl
+Television Time,com.litteral.TVShows
+Letterboxd,com.letterboxd.LetterboxdApp
+TV Time - #1 Show Tracker,com.tozelabs.tvshowtime
+Bobby Movie,bcc.movie.bobby
+McDonald's,com.mcdonalds.gma
+Prime Photos from Amazon,com.amazon.CloudDrivePhotos
+Untappd,com.untappdllc.com
+OLX.pl,pl.tablica
+mBank PL,pl.mobiltek.mbank
+Allegro,com.allegro.iphone
+OTOMOTO.pl,pl.otomoto.otomoto
+VRV,com.ellation.vrv
+Truebill,com.truebill.truebillnative
+Formula 1,com.fodmltd.OfficialF1
+ParcelTrack,com.uberblic.ParcelTrack
+Sliver.tv,tv.sliver.ios
+x-VPN,com.xvpn
+movie diary,com.crowdm.moviediary
+documents,com.readdle.ReaddleDocsIPad
+RLtracker pro,rltracker.pro.prices
+Signal,org.whispersystems.signal
+Bitwarden,com.8bit.bitwarden
+Tagesthemen,de.tagesschau.Tagesschau
+Google Authenticator ,com.google.Authenticator
+TimeTree,works.jubilee.timetree
+SPOX,com.spox.mobile
+Wattpad,com.fivemobile.wattpad
+ReProvision,com.matchstic.reprovision.ios
+TunnelBear ,com.tunnelbear.ios.TunnelBear
+AutoScout 24,com.autoscout24.lab
+Booking.com,com.booking.BookingApp
+Pages,com.apple.Pages
+Keynote,com.apple.Keynote
+Numbers,com.apple.Numbers
+eventim,de.eventim.iphoneapp
+mytaxi ,de.intelligentapps.ott.client
+mytaxi ,com.uznewmax.mytaxi
+MVV,com.mdv.MVVCompanion
+CertTimeRemain,fr.lululombard.certremaintime
+TK,de.tk.tk-app
+Numbrs,bundleid unknown
+S-pushTAN ,de.starfinanz.pushTanApp
+Lieferando,com.yourdelivery.lieferando
+DHL ,org.abc.Dhl
+Foursquare,com.naveenium.foursquare
+Swarm,com.foursquare.robin
+Mega,mega.ios
+Disney Magical Kingdoms,com.gameloft.disneykingdom
+Photoshop Fix,com.adobe.photoshop.fix
+Photoshop Mix,com.adobe.photoshop.mix.ipad
+Splasher // Unsplash Client,com.adamtootle.splasher
+yandex translate ,ru.yandex.mobile.translate
+filmborn ,com.mastinlabs.filmborn
+KSU Mobile,edu.kent.ksumobile
+Capital One Mobile,com.capitalone.enterprisemobilebanking
+Fifth Third Banking,com.clairmail.fth.client
+GameStop,com.gamestop.powerup
+LetGo,com.letgo.ios
+OfferUp,com.offerup.iphone.consumer
+Pocket Points,co.pocketpoints
+Target,com.target.Target
+Zomato,com.zomato.zomato
+Cam Scanner Lite,com.intsig.CamScannerLite
+Geek,com.contextlogic.Geek
+First Choice Power,FirstChoicePower.MobileOAM
+Line Camera,jp.naver.linecamera
+Magnifier,com.apple.Magnifier
+Sprint,com.sprint.psd.zone
+Numbo,cz.master.beatrix
+PIXMA Print,jp.co.canon.bsd.iphone.PIXMA-Print
+Reform X,com.zestlabs.reformx
+Rent Café,com.yardi.rentcafe.resident
+SM Pro,com.plusblog.smpro
+Calculator for iPad Free,com.itwcalculator.calculatorforipadfree
+Passbook UI Service,com.apple.PassbookUIService
+Watch Chat,de.bassapps.WatchChat
+Widget Weather GPS,com.sddevstudio.WidgetWeatherGPS
+Weather Underground,com.wunderground.weatherunderground
+Zip App Free,net.langui.zipappfree
+Adobe Reader,com.adobe.Adobe-Reader
+Fill and Sign,com.adobe.FillAndSign
+Craigslist,YanFlex.CPlus.Craigslist
+MyNetVue,com.netviewtech.mynetvue
+Electra Remover,com.pwned4ever.ElectraRemover2.3VFS
+Cydown,com.julioverne.cydown
+Caller ID,com.whitepages.callerid
+ qq (Penguin),com.tencent.mqq
+ qq音乐,com.tencent.QQMusic
+Flipboard,com.flipboard.flipboard-ipad
+Retrica,com.bootstlab.retro
+Flickr,com.yahoo.flickr
+IKEA,com.ikea.store
+NgxCarPlay,com.eason.NGXPlay
+NgxCarPlay,com.eason.carplay
+NgxCarPlay,com.eason.carplay.ios11
+MyContact Backup,com.globile.ios.mycontactsbackup
+Batterylife (rbt repo),com.rbt.batterylife
+Batterylife (rbt repo),com.rbt.batterylife
+Overwatch League,com.blizzard.owl
+Patreon,com.patreon.iphone
+Ratchet and Clank: BTN,com.playstation.ratchetnexus
+iNDS,com.ApprenticeMediaLLC.iNDS
+Asos,com.asos.asos
+Etsy,com.etsy.etsyforios
+Flex 3,com.johncoates.Flex
+Kindle,com.amazon.Lassen
+NFL fantasy,com.nfl.fantasy.core
+Darkness Rises,com.nexon.da3.global
+Installer5,me.apptapp.installer
+Dark Sky,com.jackadam.darksky
+Aspiration,com.aspiration.summit
+Aliwangwang,com.taobao.iteam.ios.aliwangwang
+Gogoro,com.gogoro.MobileApp
+Summoners war,com.com2us.smon.normal.freefull.apple.kr.ios.universal
+Deemo,com.rayark.pluto
+MACU,com.macu.mfm
+Premier League - Official App,com.premierleague.main
+Gumtree - Buy & Sell Near You,com.gumtreeuk2.iphone
+Sky Sports International,com.bskyb.sports.international
+Bible ,tv.lifechurch.bible
+B612,com.linecorp.b612
+Google+,com.google.GooglePlus
+Last fm,fm.last.batch-scrobbler
+Pizza pizza,com.pizzapizza.live
+Weblock,com.futuremind.wpad
+Words with friends,com.zynga.WordsWithFriends3
+iHeart radio,com.clearchannel.iheartradio
+Vox,com.coppertino.VoxMobile
+Hike,com.bsb.hike
+weibo,com.sina.weibo
+alipay,com.alipay.iphoneclient
+Annotable,com.moke.Annotable
+Ticketmaster,com.ticketmaster.ios.TicketmasterApp
+Audible,com.audible.iphone
+Dashlane,com.dashlane.dashlanephonefinal
+S-mobiili,fi.smobiili
+Wilma,fi.starsoft.wilma
+Telstra 24x7,com.telstra.telstra24x7iphone
+NextThere,com.appjourney.NextThere
+Whisper,sh.whisper.whisperapp
+Cimb Messenger,com.cimb.messenger
+Shopee,com.beeasy.shopee.id
+Lazada,com.LazadaSEA.Lazada
+MyUmobile,com.umobile.selfcare
+Grindr,com.grindrguy.grindrx
+Adguard Pro,com.adguard.AdguardExtension
+Adguard Pro,com.adguard.AdguardPro
+Oxford Dictionary of English,com.mobisystems.OxfordDictionaryOfEnglishFree
+BVG FahrInfo Plus Berlin,de.metaquark.vbbquery
+TorAlarm Fussball Bundesliga von TorAlarm ,com.eisterhues-media.TorAlarmPro
+OfferUp,com.offerup.iphone.consumer
+AppValley,No bundle id
+HotSchedules,com.hotschedules.hotschedules
+Days Since,com.sferrazza.Days-Since-Days-Til
+Walmart,com.walmart.electronics
+Grocery (by walmart),com.walmart.grocery
+Team Viewer,com.teamviewer.rc
+The weather channel,com.weather.TWC
+Prime now,com.amazon.Now
+WishMindr,com.wishmindr.app
+Flir cloud,com.flir.consumer.flir.cloud
+Get upside,com.upside-services.consumer
+Fake GPS,com.fake.gpsapp
+PayByPhone,com.verrus.paybyphone
+Motif,com.motifinvesting.MotifExplorer
+FPL,com.nexteraenergy.fpl
+My Account (xfinity),com.comcast.cim.myaccount
+Citi Mobile (citibank),com.citigroup.citimobile
+Barclays US,com.barclaycardus.iphonesvc
+My Synchrony,com.syf.mysynchrony
+Prism,com.mobilligy
+Acorns,com.acorns.investor
+Credit Karma,com.creditkarma.mobile
+Mobile Pay (by ally financial),com.ally.Auto
+US Bank,com.usbank.icmobilebanking
+Xoom,com.xoom.app
+Discover,com.discoverfinancial.mobile
+Mint,com.mint.internal
+Voice (by google),com.google.GVDialer
+Lose it!,com.fitnow.loseit
+DietBet,com.dietbet.DietBet
+StepBet,com.stepbet.Stepbet
+RunBet,com.runbet.np
+Subway,com.subway.mobile.subwayapp03
+MyChart,com.epic.mychart
+HealthyWage,com.healthywage.ios.HealthyWage
+Nike + Run club,com.nike.nikeplus-gps
+Snapsie,com.nibbleapps.Snapsie
+FitMenCook,com.nibbleapps.FitMenCook
+Health Mate (by Nokia),com.withings.wiScaleNG
+Debts Manager,com.mhriley.DebtSnowball
+Walmart MoneyCard,com.greendotcorp.walmartmoneycard
+ADP Mobile Solutions,com.adp.adpmobile
+LIFX,com.lifx.lifx
+Nintendo Switch Online App,com.nintendo.znca
+Philips Hue,com.philips.lighting.hue2
+Swish payments,se.bankgirot.swish
+Authy,com.authy
+Google Home,com.google.Chromecast
+Bose Connect,com.bose.boseconnect
+SL-Journey planner and tickets,com.sl.SL-biljetter
+SEB Ung,se.seb.ungdom
+Streamlabs: Livestreaming,com.streamlabs
+Brandbassador,com.brandbassador.brandbassador
+"My Telenor, Sweden",com.telenor.se.MyTelenor
+Shyft,com.coffeemobile.coffeeenterprise
+Santander Bank,com.sovereign.santander.us.public..Personal-Banking
+Citibanamex Bank,com.citibanamex.iphoneprod
+MyVidster,com.myvidster
+iStudiez PRO,com.kachalobalashoff.iStudent
+Moovit,com.tranzmate.tranzmate1
+Musixmatch,com.musixmatch.lyrics
+MercadoLibre,com.3mosquitos.MercadoLibre
+MyWidgets,francis.bonnin.mywidgets
+SixFlags,com.sixflags.ios
+Text Now,com.tinginteractive.usms
+Squire,com.applications.Squir-App
+Squire,com.squire
+Cuponerapp,com.rasatop.Cuponerapp
+PromoDescuentos,Missing bundle ID
+Blur,com.taphive.blurapp
+Pillow,com.neybox.Pillow
+Volaris,com.volaris.ios
+VivaAerobus,com.navitaire.nps.VB.production
+Aeroméxico,com.aeromexico.app
+Interjet,com.interjet.Interjet
+Sleep Cycle,com.lexwarelabs.goodmorning
+Xe Currency,com.xe.XECurrency
+Genius,com.rapgenius.RapGenius
+Hearthstone,com.blizzard.wtcg.hearthstone
+Leboncoin,fr.leboncoin.Leboncoin
+Wells Fargo,com.wf.mobilebanking
+iMovie,com.apple.iMovie
+BBC Sport,uk.co.bbc.sportww
+ECB Cricket,com.othermedia.iphone.ecbcricket
+GH Drivers ,com.grubhub.GHDelivery
+Egg Inc,com.auxbrain.egginc
+Road Trip,ca.darrenstone.roadtrip
+Garmin Connect,com.garmin.connect.mobile
+myCrew - social fitness,com.mycrew
+Pace Calculator,au.com.polymorphsolutions.Pace-Calc
+Komoot — Cycling & Hiking Maps,de.komoot.berlinbikeapp
+Houseparty,com.herzick.houseparty
+Pushbullet,com.pushbullet.client
+Youtube Music,com.google.ios.youtubemusic
+Microsoft Authenticator,com.microsoft.azureauthenticator
+Destiny,com.bungieinc.bungie
+TripAdvisor,com.tripadvisor.LocalPicks
+Food Network,com.sni.iphone.applications.ITKApp
+Notability,com.gingerlabs.Notability
+Microsoft OneNote,com.microsoft.onenote
+Microsoft Word,com.microsoft.Office.Word
+Microsoft Excel,com.microsoft.Office.Excel
+Microsoft Powerpoint,com.microsoft.Office.Powerpoint
+Mendeley,com.mendeley.mendeleyiphone
+Quora,com.quora.app.mobile
+Jodel,com.go-tellm.tellm
+Piano Tiles 2™,com.cmplay.tiles2
+Amazon Alexa,com.amazon.echo
+Activator,libactivator
+Smart Life,com.tuya.smartlife
+KakaoTalk,com.iwilab.KakaoTalk
+CARROT To-Do,com.grailr.CARROT
+Huntington Mobile,com.huntington.m
+Mobile Legends: Bang Bang,com.mobile.legends
+Rayman Adventures,com.ubisoft.raymanadventurestv
+Asphalt 9,com.gameloft.asphalt9
+Natwest,com.monitise.matm.Monitise-iPhone-NatWest-EN-GB
+Ladbrokes,com.ladbrokes.sportsbook.iphone.uk
+Google Voice,com.google.GVDialer
+Moviepass,com.moviepass.MoviePass
+Marvel Contest of Champions,com.kabam.marvelbattle
+Delta Emulator,com.rileytestut.Delta
+Google Calendar,com.google.calendar
+Bejewelled,com.popcap.ios.BejBlitz
+Forever 21,com.forever21.Forever21
+Gamerlink,gg.gamerlink.gamerlink
+Pimp Your Screen,com.apalonapps.pimpyourscreen
+Sim City Mobile,com.ea.simcitymobile.bv
+Temple Run 2,com.imangi.templerun2
+Transit,com.samvermette.Transit
+Viki,com.viki.viki-ios
+Guitar Tuna,com.ovelin.guitartuna
+H&M,com.hm.goe
+Test Flight,com.apple.TestFlight
+Juno,com.gojuno.rider
+Fly Delta,com.delta.iphone.ver1
+Headspace,com.getsomeheadspace.headspace
+Calm,com.calm.calmapp
+HBO Go,com.hbo.hbogo
+Duolingo,com.duolingo.DuolingoMobile
+BundleIDs,com.sassoty.bundleids
+UnlimTones,com.unlimapps.UnlimTones
+Tom Tom,com.tomtom.UK-Ireland
+Giff Gaff,com.giffgaff.mygiffgaff
+Adblock,com.futuremind.adblock
+BBC Weather,uk.co.bcc.weather
+Bytafont 3,com.bytafont.BytaFont3
+RadioIn,com.alexanderben.RadioIn
+Alarm Clock Pro,com.ihandysoft.alarmclock.pro
+Sleep Maker Storm,nz.co.softwarex.sleepmakerstormfree
+mymacca's,com.mcdonalds.gma.au
+Plex B,com.plexapp.plex.beta
+Trust,com.sixdays.trust
